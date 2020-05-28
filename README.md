@@ -1,5 +1,5 @@
 # Introdução ao JavaScript
-Conteúdo introdutório à linguagem JavaScript desenvolvido através do acompanhamento das aulas disponiblizadas pela Digital Innovation One juntamente com o Prof. Rafael Galleani, Líder Técnico na Global Hitss.  
+Conteúdo introdutório à linguagem JavaScript desenvolvido através do acompanhamento das aulas disponibilizadas pela Digital Innovation One juntamente com os professores: Prof. Rafael Galleani (Líder Técnico na Global Hitss); Guilherme Cabrini da Silva (Desenvolvedor Front End - Exactaworks).  
 https://digitalinnovation.one    
 
 ![](https://img-a.udemycdn.com/course/750x422/2575266_c184.jpg)
@@ -13,6 +13,9 @@ https://digitalinnovation.one
 * Condicionais, Laços de repetição e Date
 * Functions, variáveis locais e globais
 * InnerHTML e funcões ligadas às propriedades das tags HTML  
+* Tipagem fraca e dinâmica
+* Hoisting, closure e currying
+* Imutabilidade e funções de primeira classe.
 -------------
 
 ### Exemplo - Javascript　
